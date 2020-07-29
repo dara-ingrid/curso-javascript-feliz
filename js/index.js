@@ -1,7 +1,5 @@
 const root = document.querySelector('#root')
-const textTitle = 'Daradid'
-const textSmall = 'texto pequeno'
-const otherText =  'Outro texto'
+const textTitle = 'Dificuldade'
 
 //Tagged Template String
 const title = Title`

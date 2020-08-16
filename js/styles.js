@@ -22,9 +22,10 @@ const css = `<style>
         background-color: #3B3B98;
         width: 40vw;
         min-width: 768px;
-        height: 65vh;
+        height: 70vh;
         text-align: center;
         padding-top: 4rem;
+        padding-bottom: 4rem;
       }
   </style>`
 

@@ -10,9 +10,6 @@ const title = Title`
     margin-bottom: 4rem;
     ${textTitle}
 `
-
-
-
 root.insertAdjacentHTML('beforeend', title)
 root.insertAdjacentHTML('beforeend', wrapperCharacters)
-
+root.insertAdjacentHTML('beforeend', slide)

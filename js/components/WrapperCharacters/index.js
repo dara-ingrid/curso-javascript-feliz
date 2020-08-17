@@ -1,6 +1,6 @@
 const pathGueio = 'images/gueio.png'
 const gueio = Character `
-        width: 18%;
+        width: 18%;     
         ${pathGueio}
 `
 const WrapperCharacters = (css, children) => (`

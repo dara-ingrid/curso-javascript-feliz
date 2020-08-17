@@ -1,4 +1,10 @@
-const css = `<style>
+const css = `
+<style>
+      :root {
+          --line-height: 10px;
+          --happy-color: #EAB543;
+      }
+
       * {
         margin: 0;
         padding: 0;
@@ -22,7 +28,7 @@ const css = `<style>
         background-color: #3B3B98;
         width: 40vw;
         min-width: 768px;
-        height: 70vh;
+        height: 75vh;
         text-align: center;
         padding-top: 4rem;
         padding-bottom: 4rem;
